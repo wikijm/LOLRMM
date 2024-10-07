@@ -13,7 +13,7 @@ id: a2f984b5-66c3-4d80-bd47-08394e0c3939
 status: experimental
 description: Detects potential network activity of Addigy RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219
