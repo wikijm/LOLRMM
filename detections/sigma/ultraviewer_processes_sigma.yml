@@ -19,7 +19,7 @@ id: 71b5a484-76c9-4341-9267-f4b7eb8fd8a3
 status: experimental
 description: Detects potential processes activity of UltraViewer RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219
