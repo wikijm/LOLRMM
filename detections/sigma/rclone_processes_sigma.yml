@@ -11,7 +11,7 @@ id: d722606f-8f80-42b8-9ac2-1fb8d5cdb42e
 status: experimental
 description: Detects potential processes activity of rclone RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

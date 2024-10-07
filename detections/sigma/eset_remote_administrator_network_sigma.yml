@@ -12,7 +12,7 @@ id: d0f8dc3b-f6c4-4293-a6c3-9c5928d5355e
 status: experimental
 description: Detects potential network activity of ESET Remote Administrator RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

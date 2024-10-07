@@ -17,7 +17,7 @@ id: eeafd28d-ed54-4904-b5e0-81c88109d0ac
 status: experimental
 description: Detects potential processes activity of Splashtop Remote RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

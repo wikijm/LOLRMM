@@ -14,7 +14,7 @@ status: experimental
 description: Detects potential processes activity of Connectwise Automate (LabTech)
   RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

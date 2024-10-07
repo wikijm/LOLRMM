@@ -25,7 +25,7 @@ id: ea23aeb1-701b-4cd9-9951-5d00ce194c2b
 status: experimental
 description: Detects potential network activity of Atera RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

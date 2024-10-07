@@ -19,7 +19,7 @@ id: a08c1267-edce-4af3-8f48-bf74bb4f52c6
 status: experimental
 description: Detects potential files activity of Atera RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219

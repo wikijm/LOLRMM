@@ -11,7 +11,7 @@ id: 0e19d5d5-98be-43da-8498-9b25a7794086
 status: experimental
 description: Detects potential network activity of PSEXEC (Clone) RMM tool
 author: LOLRMM Project
-date: 2024/08/07
+date: 2024-08-07
 tags:
 - attack.execution
 - attack.t1219
